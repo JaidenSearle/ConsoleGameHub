@@ -4,10 +4,10 @@ import org.junit.Test;
 
 /**
  * Tests for GameHistoryTracker
- * 
+ *
  */
 
-public class GameHistoryTrackerTest{
+public class GameHistoryTrackerTest {
 
     @Test
     void TestRecordPlay() {
@@ -16,25 +16,25 @@ public class GameHistoryTrackerTest{
     }
 
     @Test
-    void TestDisplayHistory(){
+    void TestDisplayHistory() {
 
 
     }
 
     @Test
-    void TestSaveHistory(){
+    void TestSaveHistory() {
 
 
     }
 
     @Test
-    void TestLoadHistory(){
+    void TestLoadHistory() {
 
 
     }
 
     @Test
-    void TestClearHistory(){
+    void TestClearHistory() {
 
 
     }
